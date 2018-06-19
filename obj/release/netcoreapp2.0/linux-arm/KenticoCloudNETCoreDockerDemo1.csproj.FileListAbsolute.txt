@@ -1,0 +1,16 @@
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\libhostpolicy.so
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\libhostfxr.so
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\IISUrlRewrite.xml
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.deps.json
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.runtimeconfig.json
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.runtimeconfig.dev.json
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.dll
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\bin\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.pdb
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\obj\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.csprojAssemblyReference.cache
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\obj\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.csproj.CoreCompileInputs.cache
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\obj\release\netcoreapp2.0\linux-arm\UserSecretsAssemblyInfo.cs
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\obj\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.AssemblyInfoInputs.cache
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\obj\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.AssemblyInfo.cs
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\obj\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.dll
+C:\Projects\KenticoCloudNETCoreDockerDemo1\KenticoCloudNETCOreDockerDemo1\obj\release\netcoreapp2.0\linux-arm\KenticoCloudNETCoreDockerDemo1.pdb
